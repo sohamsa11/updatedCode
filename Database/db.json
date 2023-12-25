@@ -1,0 +1,433 @@
+{
+  "users": [
+    {
+      "regFName": "Tushar",
+      "regLName": "Jamadar",
+      "regEmail": "tusharja@gmail.com",
+      "regPhone": "0985217643",
+      "regPassword": "Tushar@123",
+      "imageUrl": "user3.jpg",
+      "token": "dummyToken",
+      "id": 1
+    },
+    {
+      "regFName": "Ramesh",
+      "regLName": "Kapoor",
+      "regEmail": "ramesh@gmail.com",
+      "regPhone": "1234567890",
+      "regPassword": "ramesh@123",
+      "imageUrl": "user3.jpg",
+      "token": "dummyToken",
+      "id": 2
+    },
+    {
+      "regFName": "Sita",
+      "regLName": "Ram",
+      "regEmail": "sita@gmail.com",
+      "regPhone": "1234567890",
+      "regPassword": "sita@123",
+      "imageUrl": "user2.jpg",
+      "token": "dummyToken",
+      "id": 3
+    }
+  ],
+  "movie-content": [
+    {
+      "id": 1,
+      "title": "Animal",
+      "category": "action",
+      "minAge": "18",
+      "duration": "3h 33m",
+      "imgName": "movies/animalPoster.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Gadar 2",
+      "category": "action",
+      "minAge": "12",
+      "duration": "2h 30m",
+      "imgName": "movies/gadar2Poster.jpg"
+    },
+    {
+      "id": 3,
+      "title": "OMG 2",
+      "category": "classic",
+      "minAge": "12",
+      "duration": "2h 20m",
+      "imgName": "movies/omg2Poster.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Jawaan",
+      "category": "action",
+      "minAge": "12",
+      "duration": "2h 30m",
+      "imgName": "movies/JawanPoster.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Anatomy Of A Fall",
+      "category": "comedy",
+      "minAge": "16",
+      "duration": "1h 50m",
+      "imgName": "movies/AnatomyOfaFallPoster.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Jailer",
+      "category": "action",
+      "minAge": "15",
+      "duration": "2h 55m",
+      "imgName": "movies/JailerPoster.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Leo",
+      "category": "action",
+      "minAge": "14",
+      "duration": "2h 40m",
+      "imgName": "movies/leoPoster.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Varisu",
+      "category": "classic",
+      "minAge": "17",
+      "duration": "2h 30m",
+      "imgName": "movies/varisuPoster.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Veera Simha Reddy",
+      "category": "classic",
+      "minAge": "17",
+      "duration": "5h 40m",
+      "imgName": "movies/veeraSimhaReddyPoster.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Past Lives",
+      "category": "comedy",
+      "minAge": "14",
+      "duration": "2h 40m",
+      "imgName": "movies/pastLivesPoster.jpg"
+    },
+    {
+      "id": 11,
+      "title": "killers Moon",
+      "category": "comedy",
+      "minAge": "14",
+      "duration": "2h 40m",
+      "imgName": "movies/killersOfTheFlowerMoonPoster.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Oppenheimer",
+      "category": "classic",
+      "minAge": "14",
+      "duration": "2h 35m",
+      "imgName": "movies/OppenheimerPoster.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Fukrey",
+      "category": "classic",
+      "minAge": "14",
+      "duration": "2h 35m",
+      "imgName": "movies/fukreyPoster.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Chicken Run",
+      "category": "comedy",
+      "minAge": "15",
+      "duration": "2h",
+      "imgName": "movies/chickenRunPoster.jpg"
+    },
+    {
+      "id": 15,
+      "title": "No hard Feelings",
+      "category": "comedy",
+      "minAge": "16",
+      "duration": "2h 40m",
+      "imgName": "movies/noHardFeelingsPoster.jpeg"
+    }
+  ],
+  "tvShow-content": [
+    {
+      "id": 1,
+      "title": "Aspirants",
+      "category": "classic",
+      "minAge": "12",
+      "season": "2",
+      "imgName": "shows/aspirantsPoster.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "City of Dreams",
+      "category": "classic",
+      "minAge": "15",
+      "season": "1",
+      "imgName": "shows/cityOfDreamsPoster.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Flames",
+      "category": "classic",
+      "minAge": "17",
+      "season": "3",
+      "imgName": "shows/flamesPoster.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Hostel Daze",
+      "category": "comedy",
+      "minAge": "16",
+      "season": "2",
+      "imgName": "shows/hostelDazePoster.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Dragon House",
+      "category": "action",
+      "minAge": "18",
+      "season": "2",
+      "imgName": "shows/houseoftheDragon.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Immature",
+      "category": "comedy",
+      "minAge": "16",
+      "season": "2",
+      "imgName": "shows/immaturePoster.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Mukhbir",
+      "category": "action",
+      "minAge": "16",
+      "season": "2",
+      "imgName": "shows/mukhbirPoster.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Panchayat",
+      "category": "comedy",
+      "minAge": "12",
+      "season": "2",
+      "imgName": "shows/PanchayatPoster.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Permanent Roomates",
+      "category": "classic",
+      "minAge": "16",
+      "season": "2",
+      "imgName": "shows/permanentRoomatesPoster.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Reacher",
+      "category": "action",
+      "minAge": "16",
+      "season": "2",
+      "imgName": "shows/reacherPoster.jpeg"
+    },
+    {
+      "id": 11,
+      "title": "Rocket Boys",
+      "category": "classic",
+      "minAge": "16",
+      "season": "2",
+      "imgName": "shows/rocketBoysPoster.jpg"
+    },
+    {
+      "id": 12,
+      "title": "The Recruit",
+      "category": "action",
+      "minAge": "17",
+      "season": "2",
+      "imgName": "shows/theRecruitPoster.jpeg"
+    },
+    {
+      "id": 13,
+      "title": "Watcher",
+      "category": "action",
+      "minAge": "17",
+      "season": "2",
+      "imgName": "shows/watcherPoster.jpeg"
+    },
+    {
+      "id": 14,
+      "title": "Yeh Meri Family",
+      "category": "comedy",
+      "minAge": "17",
+      "season": "2",
+      "imgName": "shows/yehMeriFamilyPoster.jpeg"
+    },
+    {
+      "id": 15,
+      "title": "Your Honor",
+      "category": "classic",
+      "minAge": "17",
+      "season": "2",
+      "imgName": "shows/yourHonorPoster.jpeg"
+    }
+  ],
+  "music-content": [
+    {
+      "id": 1,
+      "title": "Satranga",
+      "category": "hindi",
+      "singer": "Arijit Singh",
+      "duration": "4m 31s",
+      "imgName": "audio/sataranga.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Agar Tum Sath Ho",
+      "category": "hindi",
+      "singer": "Arjit Sigh",
+      "duration": "3m 10s",
+      "imgName": "audio/agartumsathho.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Heeriye",
+      "category": "hindi",
+      "singer": "Jasleen Royal",
+      "duration": "2m 54s",
+      "imgName": "audio/heeriye.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Kahani Suno",
+      "category": "hindi",
+      "singer": "Kaifi Khalil",
+      "duration": "4m 47s",
+      "imgName": "audio/kahaniSuno.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Kesariya",
+      "category": "hindi",
+      "singer": "Arijit Singh",
+      "duration": "4m 30s",
+      "imgName": "audio/kesariya.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Peaches",
+      "category": "english",
+      "singer": "Justin Bieber",
+      "duration": "2m 50s",
+      "imgName": "audio/peaches.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Senorita",
+      "category": "english",
+      "singer": "Camila Cabello",
+      "duration": "1m 50s",
+      "imgName": "audio/senorita.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Shape Of You",
+      "category": "english",
+      "singer": "Ed Sheeren",
+      "duration": "3m 23s",
+      "imgName": "audio/shapeofyou.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Stay",
+      "category": "english",
+      "singer": "Justin Bieber",
+      "duration": "3m 10s",
+      "imgName": "audio/stay.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Deva Kalji Re",
+      "category": "marathi",
+      "singer": "Ajay Gogavle",
+      "duration": "3m 10s",
+      "imgName": "audio/devakkaljire.jpeg"
+    },
+    {
+      "id": 11,
+      "title": "Man Udhan Varyache",
+      "category": "marathi",
+      "singer": "Ajay Atul",
+      "duration": "3m 14s",
+      "imgName": "audio/manudhanvaryache.jpeg"
+    },
+    {
+      "id": 12,
+      "title": "Sarkar Tumhi Kelay Market Jam",
+      "category": "marathi",
+      "singer": "Gautami Patil",
+      "duration": "3m 10s",
+      "imgName": "audio/sarkar.jpeg"
+    }
+  ],
+  "favMovie": [
+    {
+      "movieId": 1,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "movieId": 2,
+      "userId": 2,
+      "id": 4
+    }
+  ],
+  "favTVShow": [
+    {
+      "movieId": 7,
+      "userId": 2,
+      "id": 3
+    }
+  ],
+  "favMusic": [
+    {
+      "movieId": 1,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "movieId": 2,
+      "userId": 2,
+      "id": 2
+    }
+  ],
+  "ratingsdata": [
+    {
+      "userId": 1,
+      "contentId": "5",
+      "ratingpoints": 3,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "contentId": null,
+      "ratingpoints": 3,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "contentId": 2,
+      "ratingpoints": 3,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "contentId": 3,
+      "ratingpoints": 2,
+      "id": 4
+    }
+  ]
+}
